@@ -1,0 +1,14 @@
+transformers==4.25.1 # Never upgrade
+numpy==1.26.2
+torch==2.1.2
+scikit-learn==1.3.2
+tqdm==4.66.1
+# spacy[apple]==3.7.2  # for mac
+spacy==3.4.4  #
+matplotlib==3.8.2
+google-cloud-firestore==2.14.0
+oauth2client==4.1.3
+scipy==1.11.4
+optuna==3.5.0
+unidecode==1.3.8
+statsmodels==0.14.1
